@@ -19,7 +19,7 @@
 
 ### [√] Description :
 
-***A python phishing script for login phishing, image phishing video phishing an many more***
+***A python phishing script for login phishing, image phishing, video phishing and many more***
 
 ### [+] Installation
 
@@ -156,7 +156,7 @@ If not found, php, ssh and python modoules will be installed on first run
 [CamHacker](https://github.com/KasRoudra/CamHacker)
 [VidPhisher](https://github.com/KasRoudra/VidPhisher)
 [IP-Tracker](https://github.com/KasRoudra/IP-Tracker)
-[StromeBreaker](https://github.com/ultrasecurity/Storm-Breaker)
+[Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker)
 [Seeker](https://github.com/thewhiteh4t/seeker)
 
 ## [~] Find Me on :
